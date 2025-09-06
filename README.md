@@ -5,28 +5,20 @@ This project explores flight delay prediction using real-world aviation datasets
 **Key Highlights**
 
 Performed extensive data cleaning & preprocessing, handling missing values and outliers.
-
 Conducted exploratory data analysis (EDA): delay distributions, peak delay times, airport-wise trends, and airline performance.
-
 Engineered features such as departure time, day-of-week, carrier, and weather conditions.
 
 **Implemented and evaluated multiple ML models:**
 
 Logistic Regression
-
 Random Forest
-
 XG Boosting
-
 Evaluated models using Accuracy, Precision, Recall, F1-score, and ROC-AUC.
 
 **Tech Stack**
 
 Python, Pandas, NumPy, scikit-learn
-
 Matplotlib, Seaborn for visualization
-
-SQL for query-based data analysis
 
 **Applications**
 
