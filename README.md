@@ -28,6 +28,6 @@ Matplotlib, Seaborn for visualization
 
 SQL for query-based data analysis
 
-Applications
+**Applications**
 
 This work demonstrates how data science and ML can support airline operations, traffic management, and passenger experience by predicting potential delays before they occur.
