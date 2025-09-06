@@ -10,10 +10,7 @@ Engineered features such as departure time, day-of-week, carrier, and weather co
 
 **Implemented and evaluated multiple ML models:**
 
-Logistic Regression
-Random Forest
-XG Boosting
-Evaluated models using Accuracy, Precision, Recall, F1-score, and ROC-AUC.
+Logistic Regression,Random Forest and XG Boosting. Evaluated models using Accuracy, Precision, Recall, F1-score, and ROC-AUC.
 
 **Tech Stack**
 
