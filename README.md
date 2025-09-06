@@ -10,8 +10,8 @@ Conducted exploratory data analysis (EDA): delay distributions, peak delay times
 
 Engineered features such as departure time, day-of-week, carrier, and weather conditions.
 
-**Implemented and evaluated multiple ML models:
-**
+**Implemented and evaluated multiple ML models:**
+
 Logistic Regression
 
 Random Forest
